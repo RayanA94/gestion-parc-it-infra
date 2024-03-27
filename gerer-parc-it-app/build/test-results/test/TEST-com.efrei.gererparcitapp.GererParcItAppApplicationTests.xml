@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.efrei.gererparcitapp.GererParcItAppApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-03-27T14:26:27" hostname="LUFFY" time="1.368">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.efrei.gererparcitapp.GererParcItAppApplicationTests" time="1.368"/>
+  <system-out><![CDATA[15:26:24.270 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.efrei.gererparcitapp.GererParcItAppApplicationTests]: GererParcItAppApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+15:26:24.460 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.efrei.gererparcitapp.GererParcItAppApplication for test class com.efrei.gererparcitapp.GererParcItAppApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.4)
+
+2024-03-27T15:26:25.167+01:00  INFO 18280 --- [gerer-parc-it-app] [    Test worker] c.e.g.GererParcItAppApplicationTests     : Starting GererParcItAppApplicationTests using Java 17.0.10 with PID 18280 (started by rayan in C:\Users\rayan\Documents\efrei\cloud\gerer-parc-it-app)
+2024-03-27T15:26:25.170+01:00  INFO 18280 --- [gerer-parc-it-app] [    Test worker] c.e.g.GererParcItAppApplicationTests     : No active profile set, falling back to 1 default profile: "default"
+2024-03-27T15:26:27.081+01:00  INFO 18280 --- [gerer-parc-it-app] [    Test worker] c.e.g.GererParcItAppApplicationTests     : Started GererParcItAppApplicationTests in 2.3 seconds (process running for 4.562)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
